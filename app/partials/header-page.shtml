@@ -1,0 +1,13 @@
+<div class="header-page">
+  <div class="container-medium">
+    <div class="gridle-row header-page__double">
+      <div class="gridle-gr-8 gridle-gr-12@medium gridle-gr-12@small">
+        <h1 class="title--inner">Titulo Página</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+      </div>
+      <div class="gridle-gr-4 gridle-gr-12@medium gridle-gr-12@small header-page__button">
+        <a href="#" title="titulo de ejemplo" class="button button--main">cotiza tu proyecto</a>
+      </div>
+    </div>
+  </div>
+</div>

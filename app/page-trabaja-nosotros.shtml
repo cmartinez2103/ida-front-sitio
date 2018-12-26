@@ -1,0 +1,91 @@
+<!--#include file="header.shtml" -->
+<main>
+  <!--#include file="partials/header-page.shtml" -->
+  <section class="pad-space-1 bg bg--attachment" style="background-image: url(images/background/bg-trabaja-nosotros.jpg);">
+    <div class="container">
+      <div class="gridle-row">
+        <div class="gridle-gr-4 gridle-gr-6@largemedium gridle-gr-12@small" >
+          <article class="common-box common-box--bloque-icon">
+            <div class="common-box__body">
+              <figure class="common-box__figure common-box__figure--icon">
+                <a href="single-trabaja-nosotros.shtml" title="titulo de ejemplo">
+                  <img src="images/iconos/cube.svg" alt="código HTML5">
+                </a>
+              </figure>
+              <h2 class="title--sub-subtitulo--regular"><a href="single-trabaja-nosotros.shtml" title="titulo de ejemplo">Diseñador(a) UI</a></h2>
+              <div class="common-box__excerpt common-box__excerpt--tiny">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+              </div>
+              <a class="button button--main_line button--mini" href="single-trabaja-nosotros.shtml" title="titulo de ejemplo">Postular</a>
+            </div>
+          </article>
+        </div>
+        <div class="gridle-gr-4 gridle-gr-6@largemedium gridle-gr-12@small">
+          <article class="common-box common-box--bloque-icon">
+            <div class="common-box__body">
+              <figure class="common-box__figure common-box__figure--icon">
+                <a href="single-trabaja-nosotros.shtml" title="titulo de ejemplo">
+                  <img src="images/iconos/user-group.svg" alt="Diseño de experiencia e investigación">
+                </a>
+              </figure>
+              <h2 class="title--sub-subtitulo--regular"><a href="single-trabaja-nosotros.shtml" title="titulo de ejemplo">Arquitecto(a) de información</a></h2>
+              <div class="common-box__excerpt common-box__excerpt--tiny">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+              </div>
+              <a class="button button--main_line button--mini" href="single-trabaja-nosotros.shtml" title="titulo de ejemplo">Postular</a>
+            </div>
+          </article>
+        </div>
+        <div class="gridle-gr-4 gridle-gr-6@largemedium gridle-gr-12@small">
+          <article class="common-box common-box--bloque-icon">
+            <div class="common-box__body">
+              <figure class="common-box__figure common-box__figure--icon">
+                <a href="single-trabaja-nosotros.shtml" title="titulo de ejemplo">
+                  <img src="images/iconos/loupe-color.svg" alt="Diseño de experiencia e investigación">
+                </a>
+              </figure>
+              <h2 class="title--sub-subtitulo--regular"><a href="single-trabaja-nosotros.shtml" title="titulo de ejemplo">Programador Front-end</a></h2>
+              <div class="common-box__excerpt common-box__excerpt--tiny">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+              </div>
+              <a class="button button--main_line  button--mini" href="single-trabaja-nosotros.shtml" title="titulo de ejemplo">Postular</a>
+            </div>
+          </article>
+        </div>
+        <div class="gridle-gr-4 gridle-gr-6@largemedium gridle-gr-12@small">
+          <article class="common-box common-box--bloque-icon">
+            <div class="common-box__body">
+              <figure class="common-box__figure common-box__figure--icon">
+                <a href="single-trabaja-nosotros.shtml" title="titulo de ejemplo">
+                  <img src="images/iconos/cube.svg" alt="Diseño de experiencia e investigación">
+                </a>
+              </figure>
+              <h2 class="title--sub-subtitulo--regular"><a href="single-trabaja-nosotros.shtml" title="titulo de ejemplo">Diseñador(a) UI</a></h2>
+              <div class="common-box__excerpt common-box__excerpt--tiny">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+              </div>
+              <a class="button button--main_line " href="single-trabaja-nosotros.shtml" title="titulo de ejemplo">Postular</a>
+            </div>
+          </article>
+        </div>
+        <div class="gridle-gr-4 gridle-gr-6@largemedium gridle-gr-12@small">
+          <article class="common-box common-box--bloque-icon">
+            <div class="common-box__body">
+              <figure class="common-box__figure common-box__figure--icon">
+                <a href="single-trabaja-nosotros.shtml" title="titulo de ejemplo">
+                  <img src="images/iconos/user-group.svg" alt="Diseño de experiencia e investigación">
+                </a>
+              </figure>
+              <h2 class="title--sub-subtitulo--regular"><a href="single-trabaja-nosotros.shtml" title="titulo de ejemplo">Arquitecto(a) de información</a></h2>
+              <div class="common-box__excerpt common-box__excerpt--tiny">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+              </div>
+              <a class="button button--main_line " href="single-trabaja-nosotros.shtml" title="titulo de ejemplo">Postular</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+<!--#include file="footer.shtml" -->

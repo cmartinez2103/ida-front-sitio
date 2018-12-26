@@ -1,0 +1,175 @@
+<!--#include file="header.shtml" -->
+<main>
+  <!--#include file="partials/header-page.shtml" -->
+  <section class="proyectos">
+    <div class="container">
+      <div class="gridle-row">
+        <div class="gridle-gr-4 gridle-gr-12@small">
+          <div class="common-box common-box__proyecto">
+            <figure class="common-box__figure">
+              <a href="single-proyecto.shtml" title="titulo de ejemplo">
+                <img class="icon--bg" src="images/proyectos/proyect1.jpg" alt="código HTML5">
+                <div class="common-box__icon--hover">
+                  <i class="icon-elem icon-elem--zoom_in"></i>
+                </div>
+                <figcaption>
+                  <div class="box--gradiente">
+                    <p class="common-box__epigraph">Assa Abloy</p>
+                    <div class="common-box__excerpt">
+                      <p>Diseñando la experiencia digital de un medio de comunicación</p>
+                    </div>
+                  </div>
+                </figcaption>
+              </a>
+            </figure>
+          </div>
+        </div>
+        <div class="gridle-gr-4 gridle-gr-12@small">
+          <div class="common-box common-box__proyecto">
+            <figure class="common-box__figure">
+              <a href="single-proyecto.shtml" title="titulo de ejemplo">
+                <img class="icon--bg" src="images/proyectos/proyect2.png" alt="código HTML5">
+                <div class="common-box__icon--hover">
+                  <i class="icon-elem icon-elem--zoom_in"></i>
+                </div>
+                <figcaption>
+                  <div class="box--gradiente">
+                    <p class="common-box__epigraph">Assa Abloy</p>
+                    <div class="common-box__excerpt">
+                      <p>Diseñando la experiencia digital de un medio de comunicación</p>
+                    </div>
+                  </div>
+                </figcaption>
+              </a>
+            </figure>
+          </div>
+        </div>
+        <div class="gridle-gr-4 gridle-gr-12@small">
+          <div class="common-box common-box__proyecto">
+            <figure class="common-box__figure">
+              <a href="single-proyecto.shtml" title="titulo de ejemplo">
+                <img class="icon--bg" src="images/proyectos/proyect3.png" alt="código HTML5">
+                <div class="common-box__icon--hover">
+                  <i class="icon-elem icon-elem--zoom_in"></i>
+                </div>
+                <figcaption>
+                  <div class="box--gradiente">
+                    <p class="common-box__epigraph">Assa Abloy</p>
+                    <div class="common-box__excerpt">
+                      <p>Diseñando la experiencia digital de un medio de comunicación</p>
+                    </div>
+                  </div>
+                </figcaption>
+              </a>
+            </figure>
+          </div>
+        </div>
+      </div>
+      <div class="gridle-row">
+        <div class="gridle-gr-6 gridle-gr-12@small">
+          <div class="common-box common-box__proyecto">
+            <figure class="common-box__figure">
+              <a href="single-proyecto.shtml" title="titulo de ejemplo">
+                <img class="icon--bg" src="images/proyectos/proyect4.png" alt="código HTML5">
+                <div class="common-box__icon--hover">
+                  <i class="icon-elem icon-elem--zoom_in"></i>
+                </div>
+                <figcaption>
+                  <div class="box--gradiente">
+                    <p class="common-box__epigraph">Assa Abloy</p>
+                    <div class="common-box__excerpt">
+                      <p>Diseñando la experiencia digital de un medio de comunicación</p>
+                    </div>
+                  </div>
+                </figcaption>
+              </a>
+            </figure>
+          </div>
+        </div>
+        <div class="gridle-gr-6 gridle-gr-12@small">
+          <div class="common-box common-box__proyecto">
+            <figure class="common-box__figure">
+              <a href="single-proyecto.shtml" title="titulo de ejemplo">
+                <img class="icon--bg" src="images/proyectos/proyect5.png" alt="código HTML5">
+              </a>
+              <div class="common-box__icon--hover">
+                <i class="icon-elem icon-elem--zoom_in"></i>
+              </div>
+              <figcaption>
+                <div class="box--gradiente">
+                  <p class="common-box__epigraph">Assa Abloy</p>
+                  <div class="common-box__excerpt">
+                    <p>Diseñando la experiencia digital de un medio de comunicación</p>
+                  </div>
+                </div>
+              </figcaption>
+            </figure>
+          </div>
+        </div>
+      </div>
+      <div class="gridle-row">
+        <div class="gridle-gr-4 gridle-gr-12@small">
+          <div class="common-box common-box__proyecto">
+            <figure class="common-box__figure">
+              <a href="single-proyecto.shtml" title="titulo de ejemplo">
+                <img class="icon--bg" src="images/proyectos/proyect6.png" alt="código HTML5">
+                <div class="common-box__icon--hover">
+                  <i class="icon-elem icon-elem--zoom_in"></i>
+                </div>
+                <figcaption>
+                  <div class="box--gradiente">
+                    <p class="common-box__epigraph">Assa Abloy</p>
+                    <div class="common-box__excerpt">
+                      <p>Diseñando la experiencia digital de un medio de comunicación</p>
+                    </div>
+                  </div>
+                </figcaption>
+              </a>
+            </figure>
+          </div>
+        </div>
+        <div class="gridle-gr-4 gridle-gr-12@small">
+          <div class="common-box common-box__proyecto">
+            <figure class="common-box__figure">
+              <a href="single-proyecto.shtml" title="titulo de ejemplo">
+                <img class="icon--bg" src="images/proyectos/proyect7.png" alt="código HTML5">
+                <div class="common-box__icon--hover">
+                  <i class="icon-elem icon-elem--zoom_in"></i>
+                </div>
+                <figcaption>
+                  <div class="box--gradiente">
+                    <p class="common-box__epigraph">Assa Abloy</p>
+                    <div class="common-box__excerpt">
+                      <p>Diseñando la experiencia digital de un medio de comunicación</p>
+                    </div>
+                  </div>
+                </figcaption>
+              </a>
+            </figure>
+          </div>
+        </div>
+        <div class="gridle-gr-4 gridle-gr-12@small">
+          <div class="common-box common-box__proyecto">
+            <figure class="common-box__figure">
+              <a href="single-proyecto.shtml" title="titulo de ejemplo">
+                <img class="icon--bg" src="images/proyectos/proyect8.png" alt="código HTML5">
+                <div class="common-box__icon--hover">
+                  <i class="icon-elem icon-elem--zoom_in"></i>
+                </div>
+                <figcaption>
+                  <div class="box--gradiente">
+                    <p class="common-box__epigraph">Assa Abloy</p>
+                    <div class="common-box__excerpt">
+                      <p>Diseñando la experiencia digital de un medio de comunicación</p>
+                    </div>
+                  </div>
+                </figcaption>
+              </a>
+            </figure>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+<!--#include file="footer.shtml" -->

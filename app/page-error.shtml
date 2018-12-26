@@ -1,0 +1,25 @@
+<!--#include file="header.shtml" -->
+<main>
+  <!--#include file="partials/header--simple.shtml" -->
+  <section class="contacto bg bg--attachment" style="background-image: url(images/background/bg-servicios.png);">
+    <div class="container">
+      <div class="gridle-row">
+        <div class="gridle-gr-8 gridle-gr-12@small">
+          <div class="form-control__pop form-control__pop--danger ">
+            <p>Consuelo, tu correo no se puedo enviar. Inténtalo nueva mente o contáctanos por nuestro correo <a href="">contacto@empresa.cl</a></p>
+          </div>
+        </div>
+        <aside class="aside gridle-gr-4 gridle-gr-12@small">
+          <div class="aside__widget--grey aside__body">
+              <h3 class="aside__title--normal">¿Te ayudamos a pensar tu proyecto digital?</h3>
+              <p>También puedes ingresar directamente <span class="aside__action--text">a nuestro cotizador.</span></p>
+          </div>
+        </aside>
+      </div>
+    </div>
+    <div class="map">
+      <iframe width="600" height="500" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyD4nRO2syolZ2pibgerkanuHp0tF9CrtqQ&q=Dr+Manuel+Barros+Borgo%C3%B1o+71,+Providencia,+Regi%C3%B3n+Metropolitana" allowfullscreen></iframe>
+    </div>
+  </section>
+</main>
+<!--#include file="footer.shtml" -->

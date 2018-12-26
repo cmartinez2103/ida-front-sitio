@@ -1,0 +1,63 @@
+<!--#include file="header.shtml" -->
+<main>
+  <!--#include file="partials/header--simple.shtml" -->
+  <section class="contacto bg bg--attachment pad-space-top-2" style="background-image: url(images/background/bg-servicios.png);">
+    <div class="container">
+      <div class="gridle-row">
+        <div class="gridle-gr-8 gridle-gr-12@small">
+          <form action="" class="gridle-row form form-control__white"  data-module="common-form">
+              <div class="form-control gridle-gr-6 gridle-gr-12@tablet" >
+                  <label for="nombre" class="form-control__label">Nombre*</label>
+                  <input type="text" name="nombre" class="form-control__field" placeholder="Ingrese su nombre" data-custom-validation="onlyString" required>
+                  <span class="form-control__text">Debe contener solo valores alfabéticos. Ejemplo: Francisco Pérez</span>
+              </div>
+              <div class="form-control gridle-gr-6 gridle-gr-12@tablet">
+                  <label for="email" class="form-control__label">E-mail*</label>
+                  <input type="email" name="email"  class="form-control__field" placeholder="Ingrese su e-mail" required>
+                  <span class="form-control__text">Debe llenar este campo con un e-mail válido</span>
+              </div>
+              <div class="form-control gridle-gr-6 gridle-gr-12@tablet" >
+                  <label for="" class="form-control__label">Número de contacto telefónico*</label>
+                  <input type="text" name="telefono"  class="form-control__field" placeholder="Ingrese su número de teléfono" data-custom-validation="onlyNumbers" data-minlength="8" data-maxlength="10" required>
+                  <span class="form-control__text">Debe contener código de área 2 si es fijo o 9 si es móvil. Ejemplo: 9-75920422</span>
+              </div>
+              <div class="form-control gridle-gr-12">
+                <label for="" class="form-control__label">¿Por qué necesitas contactarnos?*</label>
+                <textarea class="form-control__field" name="name" rows="8" cols="80" placeholder="Escribe tu colcuta o solicitud" required></textarea>
+                <span class="form-control__text">Ingresa un detalle, esta puede debe tener una extensión máxima de 2000 caracteres</span>
+              </div>
+              <div class="form-control ">
+                <input class="button button--main" type="hidden" value="postular" >
+                <a class="button button--main" href="page-exito.shtml">Postular</a>
+              </div>
+          </form>
+        </div>
+        <aside class="aside gridle-gr-4 gridle-gr-12@small">
+          <div class="aside__widget--grey aside__body">
+              <h3 class="aside__title--normal">¿Te ayudamos a pensar tu proyecto digital?</h3>
+              <p>También puedes ingresar directamente <span class="aside__action--text">a nuestro cotizador.</span></p>
+          </div>
+        </aside>
+        <!-- <aside class="aside gridle-gr-4 gridle-gr-12@small">
+          <div class="aside__widget--grey aside__nav aside__body">
+              <ul>
+                <li>
+                  <a href="" class="aside__nav--active">¿Agendemos una reunión?</a>
+                </li>
+                <li>
+                  <a href="">¿Te ayudamos a pensar tu proyecto digital?</a>
+                </li>
+                <li>
+                  <a href="">¿Ya tienes un proyecto? Cuentanos tu idea</a>
+                </li>
+              </ul>
+          </div>
+        </aside> -->
+      </div>
+    </div>
+    <div class="map pad-space-top-1">
+      <iframe width="600" height="500" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyD4nRO2syolZ2pibgerkanuHp0tF9CrtqQ&q=Dr+Manuel+Barros+Borgo%C3%B1o+71,+Providencia,+Regi%C3%B3n+Metropolitana" allowfullscreen></iframe>
+    </div>
+  </section>
+</main>
+<!--#include file="footer.shtml" -->

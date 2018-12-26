@@ -1,0 +1,64 @@
+<section class="modal-box modal-box--equipo" data-role="modal-content">
+    <div class="common-box perfil gridle-row">
+      <div class="common-box__body gridle-gr-8 gridle-gr-12@tablet">
+        <div class="common-box__header">
+          <h2>Maximiliano Villegas</h2>
+          <p class="common-box__epigraph">Director General</p>
+        </div>
+        <div class="common-box__excerpt ">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+        </div>
+      </div>
+      <div class="common-box__figure common-box__figure-equipo gridle-gr-4 gridle-gr-12@tablet">
+        <figure>
+          <img src="images/nosotros/max.jpg" alt="">
+        </figure>
+        <nav class="social social--equipo footer-bar__margin" data-module="rss-navigation">
+          <ul>
+            <li class="social--link icon-elem social-link--facebook">
+              <a href="#" title="titulo de ejemplo"></a>
+            </li>
+            <li class="social--link icon-elem social-link--twitter">
+              <a href="#" title="titulo de ejemplo"></a>
+            </li>
+            <li class="social--link icon-elem social-link--linkedin">
+              <a href="#" title="titulo de ejemplo"></a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+    <div class="modal--blog">
+        <h2 class="title--line-b">Articulos Realacionados</h2>
+        <div class="gridle-row">
+          <article class="gridle-gr-12 common-box common-box--horizontal">
+            <figure class="common-box__figure">
+              <a href="#" title="titulo"><img class="photo" src="images/background/mkt.jpg" alt="código HTML5"></a>
+            </figure>
+            <div class="common-box__body blog__body">
+              <p class="common-box__epigraph">ida workshop</p>
+              <h2 class="common-box__title--blog"><a href="#" title="titulo">Estrategias de marketing digital centradas en la UX</a></h2>
+              <p class="common-box__meta--category"><i class="icon-elem icon-elem--attach_file"></i><a href="#" title="titulo">Diseño - Ida Blog</a></p>
+              <p class="common-box__meta--time"><i class="icon-elem icon-elem--timer"></i>22 Noviembre 2016</p>
+            </div>
+          </article>
+          <article class="gridle-gr-12 common-box common-box--horizontal">
+            <figure class="common-box__figure">
+              <a href="#" title="titulo"><img class="photo" src="images/background/empresa.jpg" alt="código HTML5"></a>
+            </figure>
+            <div class="common-box__body blog__body ">
+              <p class="common-box__epigraph">Estrategia digital y empresas</p>
+              <h2 class="common-box__title--blog"><a href="#" title="titulo">Estrategias de marketing digital centradas en la UX</a></h2>
+              <p class="common-box__meta--category"><i class="icon-elem icon-elem--attach_file"></i><a href="#" title="titulo">Estrategia Digital - Ida Blog</a></p>
+              <p class="common-box__meta--time"><i class="icon-elem icon-elem--timer"></i>22 Noviembre 2016</p>
+            </div>
+          </article>
+          <div class="button--aling">
+            <a href="" class="button--simple button--simple--icon-after"  >Ver más publicaciones de Maximiliano</a>
+          </div>
+        </div>
+    </div>
+
+</section>
+<script src="scripts/src/sliders.js"></script>

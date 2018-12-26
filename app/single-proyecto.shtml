@@ -1,0 +1,288 @@
+<!--#include file="header.shtml" -->
+<main class="proyecto__single">
+
+  <section class="bg bg__proyecto-single" style="background-image: url(images/background/bg-proyecto-header.jpg);">
+    <div class="container">
+      <article class="common-box proyecto__box proyecto__destacado--header">
+        <div class="common-box__body">
+          <p class="common-box__epigraph">Santo Tomás En Línea</p>
+          <h2 class="title--subtitulo--regular"><a href="single-proyecto.shtml" title="titulo de ejemplo">Diseñando la experiencia digital de un medio de comunicación</a></h2>
+          <div class="common-box__excerpt">
+            <p>Lorem ipsum dolor sit ame.  elit. Lorem ipsum dolor sit amet, consectetur adipisicim dolor sit amet, consectetur adipisicing elit.</p>
+          </div>
+          <a href="#" class="button button--main">Cotiza tu proyecto</a>
+        </div>
+      </article>
+    </div>
+  </section>
+
+<!---contexto desafio--->
+  <section class="proyecto__single--contexto-desafio">
+    <!--puede ser Container 100% o tener Container Medium-->
+    <!--container medium-->
+    <div class="container-medium">
+      <div class="gridle-row common-box--horizontal">
+        <div class="pad-not gridle-gr-5 gridle-gr-7@medium gridle-gr-12@small">
+          <h2 class="title__line--left ">Contexto</h2>
+          <div class="common-box__experpt">
+            <p>La Corporación Santo Tomás, a través de su Universidad, Instituto Profesional, Centros de Formación Técnica y colegios, impulsa a nivel nacional un proyecto educativo privado y autónomo.
+              Debido al gran volumen de información generado por las distintas unidades, este proyecto requería de una plataforma que permitiera administrar y distribuir todos los contenidos dinámicos promoviendo la facilidad de uso.</p>
+          </div>
+        </div>
+        <div class="gridle-gr-7 gridle-gr-5@medium gridle-gr-12@small">
+            <div class="common-box__figure common-box__figure__bajada">
+              <img src="images/proyectos/single-proyecto1.png" alt="">
+              <div class="common-box__excerpt--mini">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+    <!--
+    <div class="reset-descalce" style="margin-left: -310px;">
+
+    <div class="reset-descalce" style="margin-left: <?php echo $css['margin-right']; ?>;">
+    --->
+    <!--container 100% pantalla-->
+    <div class="container-100">
+      <div class="gridle-row common-box--horizontal " data-module="proyecto-3">
+        <div class="gridle-gr-6  gridle-gr-5@medium gridle-gr-12@small pad-not">
+            <div class="common-box__figure reset-descalce" style="margin-left: -310px; margin-bottom: -140px; z-index: 1;">
+              <img src="images/proyectos/single-proyecto1.png" alt="">
+            </div>
+        </div>
+        <div class=" gridle-gr-6 gridle-gr-7@medium gridle-gr-12@small pad-not">
+          <div class="common-box__body">
+            <h2 class="title__line--left ">¿Qué desafío nos propusimos?</h2>
+            <div class="common-box__excerpt">
+              <ul class="list--number">
+                <li>Concentrar y gestionar todos los contenidos dinámicos</li>
+                <li>Contar un panel de administración sencillo e intuitivo.</li>
+                <li>Ser el centro informativo para el ecosistema digital de Santo Tomás.</li>
+                <li>Dar visibilidad a los académicos y sus investigaciones.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<!---cita en background--->
+  <div class="proyecto__single--cita bg bg__destacado-cita" style="background-image: url(images/background/bg-cita.jpg);">
+    <div class="color_bg">
+      <div class="container-medium">
+        <div class="gridle-row text--white">
+          <div class="gridle-gr-6 gridle-gr-12@medium">
+            <h2 class="title--subtitulo--regular ">Primer paso de la estrategia: cambiar el paradigma</h2>
+          </div>
+          <div class="gridle-gr-6 gridle-gr-12@medium common-box__excerpt--medium">
+            <p>Coordinar los distintos sitios y sus publicaciones bajo la nueva estrategia digital, facilitó a que las fuentes de información privilegiaran la calidad de los contenidos por sobre la cantidad  de publicaciones generadas. Este cambio fue fundamental para potenciar a Santo Tomás en Línea como centro del ecosistema digital Santo Tomás.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<!---usabilidad--->
+  <section class="proyecto__single--usabilidad ">
+    <div class="container-medium">
+      <div class="gridle-row">
+        <div class="gridle-gr-6 gridle-gr-12@medium common-box">
+          <h2 class=" title__line--left">Promoviendo la usabilidad e interacción</h2>
+          <div class="common-box__excerpt--tiny">
+            <p>La Corporación Santo Tomás, a través de su Universidad, Instituto Profesional, Centros de Formación Técnica y colegios, impulsa a nivel nacional un proyecto educativo privado y autónomo.</p>
+            <p>Debido al gran volumen de información generado por las distintas unidades, este proyecto requería de una plataforma que permitiera administrar y distribuir todos los contenidos dinámicos promoviendo la facilidad de uso.</p>
+          </div>
+        </div>
+        <div class="gridle-gr-6 gridle-gr-12@medium common-box">
+          <h2  class=" title__line--left">¿Cuál fue el resultado?</h2>
+          <div class="common-box__excerpt--tiny">
+            <p>Creamos un sistema de administración que resuelve las distintas necesidades de los colaboradores.</p>
+            <p>Organizamos la información según institución, categoría y expertos involucrados. Destacando el aporte de los académicos en el desarrollo del conocimiento.</p>
+            <p>Los contenidos fijos quedaron en los sitios institucionales y los dinámicos se concentraron en Santo Tomás en Línea, siempre conectados a la organización de origen.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<!---cita con foto--->
+  <section class="proyecto__single--citafoto">
+    <div class="container">
+      <div class="gridle-row">
+        <div class="gridle-gr-6 gridle-gr-12@small citafoto__img col-img">
+          <img src="images/dispositivos/proyecto-dispositivo.jpg" alt="">
+        </div>
+        <div class="gridle-gr-6 gridle-gr-12@small citafoto__mensaje">
+          <div class="citafoto__mensaje--box">
+            <h2 class="citafoto__title--destacado">Arquitectura de Información para un diseño de interfaz intuitivo y coherente</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<!---testimonios--->
+  <section class="proyecto__single--testimonios">
+    <div class="container">
+      <h2 class="title__line--center--center title--seccion-center ">Testimonios</h2>
+      <div class="gridle-row">
+        <div class="gridle-gr-6 gridle-gr-12@tablet ">
+          <div class="testimonio testimonio--grey">
+            <div class="cuadrado-center"></div>
+            <div class="common-box__excerpt--serif common-box__excerpt--big">
+              <p>“Fueron muchos sitios, plantillas y noticias. Debíamos diseñar una arquitectura compleja y gracias a las iteraciones con Andrés pudimos concretar sus ideas en productos digitales usables y útiles.”</p>
+            </div>
+            <h3 class="testimonio__nombre">Maximiliano Villegas</h3>
+            <span class="testimonio__cargo">Director General</span>
+          </div>
+        </div>
+        <div class="gridle-gr-6 gridle-gr-12@tablet">
+          <div class="testimonio testimonio--blue">
+            <div class="cuadrado-center"></div>
+            <div class="common-box__excerpt--serif common-box__excerpt--big">
+              <p class="testimonio__cita">“La antigua plataforma tenía algunas limitaciones y ahora se abren muchas más oportunidades. Esto también ha implicado un cambio de switch, porque ahora hay que sacarle provecho a los contenidos, darle valor a la generación y desarrollo de ideas.”</p>
+            </div>
+            <h3 class="testimonio__nombre">Andrés Ossess</h3>
+            <p class="testimonio__cargo">Jefe de Plataformas Digitales Santo Tomás.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!---Galeria--->
+
+  <section class="proyecto__single--galeria">
+    <div class="container">
+      <h2 class="title__line--center--center title--seccion-center ">Galería</h2>
+      <div class="gridle-row">
+        <div class="gridle-gr-4 gridle-gr-6@tablet">
+          <figure>
+            <a href="" data-module="modal" data-role="modal-btn" data-target="partials/modal--slide.shtml#prueba">
+              <img src="images/dispositivos/galeria/ciper1.jpg" alt="">
+            </a>
+          </figure>
+        </div>
+        <div class="gridle-gr-4 gridle-gr-6@tablet">
+          <figure>
+            <a href="" data-module="modal" data-role="modal-btn" data-target="partials/modal--slide.shtml">
+              <img src="images/dispositivos/galeria/ciper2.jpg" alt="">
+            </a>
+          </figure>
+        </div>
+        <div class="gridle-gr-4 gridle-gr-6@tablet">
+          <figure>
+            <a href="" data-module="modal" data-role="modal-btn" data-target="partials/modal--slide.shtml">
+              <img src="images/dispositivos/galeria/ciper3.jpg" alt="">
+            </a>
+          </figure>
+        </div>
+
+        <div class="gridle-gr-4 gridle-gr-6@tablet">
+          <figure>
+            <a href="" data-module="modal" data-role="modal-btn" data-target="partials/modal--slide.shtml">
+              <img src="images/dispositivos/galeria/ciper4.jpg" alt="">
+            </a>
+          </figure>
+        </div>
+        <div class="gridle-gr-4 gridle-gr-6@tablet">
+          <figure>
+            <a href="" data-module="modal" data-role="modal-btn" data-target="partials/modal--slide.shtml">
+              <img src="images/dispositivos/galeria/ciper5.jpg" alt="">
+            </a>
+          </figure>
+        </div>
+        <div class="gridle-gr-4 gridle-gr-6@tablet">
+          <figure>
+            <a href="" data-module="modal" data-role="modal-btn" data-target="partials/modal--slide.shtml">
+              <img src="images/dispositivos/galeria/ciper6.jpg" alt="">
+            </a>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="proyecto__single--servicios">
+    <div class="container">
+      <h2 class="title--line-b">SERVICIOS QUE INCLUYÓ ESTE PROYECTO</h2>
+      <div class="box">
+        <ul>
+          <li>
+            <img src="images/iconos/sitemap.svg" alt="mapa de interacción">
+            <p>Arquitectura de información</p>
+          </li>
+          <li>
+            <img src="images/iconos/sitemap.svg" alt="mapa de interacción">
+            <p>Partituras de interaccion</p>
+          </li>
+          <li>
+            <img src="images/iconos/sitemap.svg" alt="mapa de interacción">
+            <p>Mapa de navegación</p>
+          </li>
+          <li>
+            <img src="images/iconos/sitemap.svg" alt="mapa de interacción">
+            <p>Front end</p>
+          </li>
+          <li>
+            <img src="images/iconos/sitemap.svg" alt="mapa de interacción">
+            <p>Wireframes</p>
+          </li>
+        </ul>
+        <div class="button__100">
+          <a href="" class="button button--main_line">COTIZA UN PROYECTO COMO ÉSTE</a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="proyecto__single--blog blog">
+    <div class="container">
+      <h2 class="title--line-b">Artículos Relacionados</h2>
+      <div class="gridle-row">
+        <article class="gridle-gr-4 gridle-gr-12@small common-box common-box__blog ">
+          <figure class="common-box__figure">
+            <a href="#" title="titulo"><img class="photo" src="images/background/mkt.jpg" alt="código HTML5"></a>
+          </figure>
+          <div class="common-box__body blog__body ">
+            <p class="common-box__epigraph">ida workshop</p>
+            <h2 class="common-box__title--blog"><a href="#" title="titulo">Estrategias de marketing digital centradas en la UX</a></h2>
+            <p class="common-box__meta--category"><i class="icon-elem icon-elem--attach_file"></i><a href="#" title="titulo">Diseño - Ida Blog</a></p>
+            <p class="common-box__meta--time"><i class="icon-elem icon-elem--timer"></i>22 Noviembre 2016</p>
+          </div>
+        </article>
+        <article class="gridle-gr-4 gridle-gr-12@small common-box common-box__blog ">
+          <figure class="common-box__figure">
+            <a href="#" title="titulo"><img class="photo" src="images/background/empresa.jpg" alt="código HTML5"></a>
+          </figure>
+          <div class="common-box__body blog__body ">
+            <p class="common-box__epigraph">Estrategia digital y empresas</p>
+            <h2 class="common-box__title--blog"><a href="#" title="titulo">Estrategias de marketing digital centradas en la UX</a></h2>
+            <p class="common-box__meta--category"><i class="icon-elem icon-elem--attach_file"></i><a href="#" title="titulo">Estrategia Digital - Ida Blog</a></p>
+            <p class="common-box__meta--time"><i class="icon-elem icon-elem--timer"></i>22 Noviembre 2016</p>
+          </div>
+        </article>
+        <article class="gridle-gr-4 gridle-gr-12@small common-box common-box__blog ">
+          <figure class="common-box__figure">
+            <a href="#" title="titulo"><img class="photo" src="images/background/mkt.jpg" alt="código HTML5"></a>
+          </figure>
+          <div class="common-box__body blog__body ">
+            <p class="common-box__epigraph">ida workshop</p>
+            <h2 class="common-box__title--blog"><a href="#" title="titulo">Estrategias de marketing digital centradas en la UX</a></h2>
+            <p class="common-box__meta--category"><i class="icon-elem icon-elem--attach_file"></i><a href="#" title="titulo">Diseño - Ida Blog</a></p>
+            <p class="common-box__meta--time"><i class="icon-elem icon-elem--timer"></i>22 Noviembre 2016</p>
+          </div>
+        </article>
+      </div>
+      <ul class="paginator">
+        <a class="paginator__item paginator__item--prev" title="Página anterior" rel="prev"> Proyecto Anterior</a>
+        <a class="paginator__item paginator__item--next"  title="Página siguiente" rel="next">Proyecto Siguiente</a>
+      </ul>
+    </div>
+  </section>
+</main>
+<!--#include file="footer.shtml" -->

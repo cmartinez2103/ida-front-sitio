@@ -1,0 +1,75 @@
+<!--#include file="header.shtml" -->
+<main>
+  <!--#include file="partials/header-page.shtml" -->
+  <section class="servicios servicios__page bg bg--attachment" style="background-image: url(images/background/bg-servicios.png);">
+    <div class="container-medium">
+      <div class="gridle-row">
+        <div class="gridle-gr-6 gridle-gr-6@largemedium gridle-gr-12@small" >
+          <article class="common-box">
+            <div class="common-box__body">
+              <figure class="common-box__figure common-box__figure--icon">
+                <a href="single-servicios.shtml" title="titulo de ejemplo">
+                  <img class="icon--bg" src="images/iconos/teamwork.svg" alt="código HTML5">
+                </a>
+              </figure>
+              <h2 class="title--subtitulo--small"><a href="single-servicios.shtml" title="titulo de ejemplo">Diseño y desarrollo de sitios web</a></h2>
+              <div class="common-box__excerpt m-b-double">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo. Lorem ipsum dolor sit amet.</p>
+              </div>
+              <a class="button--line" href="single-servicios.shtml" title="titulo de ejemplo"><i class="button__icon icon-elem icon-elem--add"></i><span>Leer más</span></a>
+            </div>
+          </article>
+        </div>
+        <div class="gridle-gr-6 gridle-gr-6@largemedium gridle-gr-12@small">
+          <article class="common-box ">
+            <div class="common-box__body">
+              <figure class="common-box__figure common-box__figure--icon">
+                <a href="single-servicios.shtml" title="titulo de ejemplo">
+                  <img class="icon--bg" src="images/iconos/loupe.svg" alt="Diseño de experiencia e investigación">
+                </a>
+              </figure>
+              <h2 class="title--subtitulo--small"><a href="single-servicios.shtml" title="titulo de ejemplo">Diseño de experiencia e investigación</a></h2>
+              <div class="common-box__excerpt m-b-double">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo. Lorem ipsum dolor sit amet.</p>
+              </div>
+              <a class="button--line" href="single-servicios.shtml" title="titulo de ejemplo"><i class="button__icon icon-elem icon-elem--add"></i><span>Leer más</span></a>
+            </div>
+          </article>
+        </div>
+        <div class="gridle-gr-6 gridle-gr-6@largemedium gridle-gr-12@small">
+          <article class="common-box">
+            <div class="common-box__body">
+              <figure class="common-box__figure common-box__figure--icon">
+                <a href="single-servicios.shtml" title="titulo de ejemplo">
+                  <img class="icon--bg" src="images/iconos/user.svg" alt="Diseño de experiencia e investigación">
+                </a>
+              </figure>
+              <h2 class="title--subtitulo--small"><a href="single-servicios.shtml" title="titulo de ejemplo">Diseño y desarrollo web</a></h2>
+              <div class="common-box__excerpt m-b-double">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo. Lorem ipsum dolor sit amet.</p>
+              </div>
+              <a class="button--line" href="single-servicios.shtml" title="titulo de ejemplo"><i class="button__icon icon-elem icon-elem--add"></i><span>Leer más</span></a>
+            </div>
+          </article>
+        </div>
+        <div class="gridle-gr-6 gridle-gr-6@largemedium gridle-gr-12@small">
+          <article class="common-box">
+            <div class="common-box__body">
+              <figure class="common-box__figure common-box__figure--icon">
+                <a href="single-servicios.shtml" title="titulo de ejemplo">
+                  <img class="icon--bg" src="images/iconos/user.svg" alt="Diseño de experiencia e investigación">
+                </a>
+              </figure>
+              <h2 class="title--subtitulo--small"><a href="single-servicios.shtml" title="titulo de ejemplo">Diseño y desarrollo web</a></h2>
+              <div class="common-box__excerpt m-b-double">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo. Lorem ipsum dolor sit amet.</p>
+              </div>
+              <a class="button--line" href="single-servicios.shtml" title="titulo de ejemplo"><i class="button__icon icon-elem icon-elem--add"></i><span>Leer más</span></a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+<!--#include file="footer.shtml" -->

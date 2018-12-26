@@ -1,0 +1,222 @@
+<!--#include file="header.shtml" -->
+<main>
+  <!--home-->
+  <section class="horizon home" style="background-image: url(images/dispositivos/mobile_top.jpg);">
+    <div class="container">
+        <div class="common-box__body">
+          <h1 class="title--full">Diseñamos experiencias que hacen felices a tu clientes</h1>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+          <a href="single-proyecto.shtml" title="titulo de ejemplo" class="button button--main">cotiza tu proyecto</a>
+        </div>
+        <figure class="common-box__figure common-box__figure--portada-home visibility-mb" >
+          <img src="images/dispositivos/mobile.png" alt="">
+        </figure>
+      </div>
+    </div>
+  </section>
+  <!--destacado-->
+  <section class=" bg bg--destacado" style="background-image: url(images/background/bg-destacado.jpg);">
+    <div class="container">
+      <article class="common-box proyecto__box proyecto__destacado">
+        <div class="common-box__body">
+          <p class="common-box__epigraph">Santo Tomás En Línea</p>
+          <h2 class="title--subtitulo--regular"><a href="single-proyecto.shtml" title="titulo de ejemplo">Diseñando la experiencia digital de un medio de comunicación</a></h2>
+          <div class="common-box__excerpt">
+            <p>Caracteres: 140. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
+          </div>
+          <a href="single-proyecto.shtml" class="button button--main">Ver Proyecto</a>
+        </div>
+      </article>
+    </div>
+  </section>
+  <!---servicio-->
+  <section class="servicios">
+    <div class="container">
+      <h2 class="title__line--center title--seccion-center title__link"><a href="page-servicios.shtml">Servicios</a></h2>
+      <div class="gridle-row">
+        <div class="gridle-gr-4 gridle-gr-6@largemedium gridle-gr-12@small" >
+          <article class="common-box">
+            <div class="common-box__body">
+              <figure class="common-box__figure common-box__figure--icon">
+                <a href="single-servicios.shtml" title="titulo de ejemplo">
+                  <img class="icon--bg" src="images/iconos/teamwork.svg" alt="código HTML5">
+                </a>
+              </figure>
+              <h2 class="title--subtitulo--small"><a href="single-servicios.shtml" title="titulo de ejemplo">Diseño y desarrollo de sitios web</a></h2>
+              <div class="common-box__excerpt m-b-double">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo. Lorem ipsum dolor sit amet.</p>
+              </div>
+              <a class="button--line" href="single-servicios.shtml" title="titulo de ejemplo"><i class="button__icon icon-elem icon-elem--add"></i><span>Leer más</span></a>
+            </div>
+          </article>
+        </div>
+        <div class="gridle-gr-4 gridle-gr-6@largemedium gridle-gr-12@small">
+          <article class="common-box ">
+            <div class="common-box__body">
+              <figure class="common-box__figure common-box__figure--icon">
+                <a href="single-servicios.shtml" title="titulo de ejemplo">
+                  <img class="icon--bg" src="images/iconos/loupe.svg" alt="Diseño de experiencia e investigación">
+                </a>
+              </figure>
+              <h2 class="title--subtitulo--small"><a href="single-servicios.shtml" title="titulo de ejemplo">Diseño de experiencia e investigación</a></h2>
+              <div class="common-box__excerpt m-b-double">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo. Lorem ipsum dolor sit amet.</p>
+              </div>
+              <a class="button--line" href="single-servicios.shtml" title="titulo de ejemplo"><i class="button__icon icon-elem icon-elem--add"></i><span>Leer más</span></a>
+            </div>
+          </article>
+        </div>
+        <div class="gridle-gr-4 gridle-gr-6@largemedium gridle-gr-12@small">
+          <article class="common-box">
+            <div class="common-box__body">
+              <figure class="common-box__figure common-box__figure--icon">
+                <a href="single-servicios.shtml" title="titulo de ejemplo">
+                  <img class="icon--bg" src="images/iconos/user.svg" alt="Diseño de experiencia e investigación">
+                </a>
+              </figure>
+              <h2 class="title--subtitulo--small"><a href="single-servicios.shtml" title="titulo de ejemplo">Diseño y desarrollo web</a></h2>
+              <div class="common-box__excerpt m-b-double">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo. Lorem ipsum dolor sit amet.</p>
+              </div>
+              <a class="button--line" href="single-servicios.shtml" title="titulo de ejemplo"><i class="button__icon icon-elem icon-elem--add"></i><span>Leer más</span></a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!---sobre ida-->
+  <section class="sobre-ida">
+    <div class="container ">
+      <article class="gridle-row common-box common-box--horizontal">
+        <div class="gridle-gr-6 gridle-gr-12@small  common-box__body magin-less-2">
+          <div class="box">
+            <h2 class="title--subtitulo--small"><a href="page-nosotros.shtml" title="titulo de ejemplo">Sobre nosotros</a></h2>
+            <div class="common-box__excerpt m-b-small">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </div>
+            <a class="button--line" href="page-nosotros.shtml" title="titulo de ejemplo"><i class="button__icon icon-elem icon-elem--add"></i><span>Leer más</span></a>
+          </div>
+        </div>
+        <figure class="gridle-gr-6 gridle-gr-12@small  common-box__figure magin-less-1">
+          <img src="images/background/bg-home-nosotros.jpg" alt="revisión wireframes">
+        </figure>
+      </article>
+      <article class="gridle-row common-box common-box--horizontal no-margin--top">
+        <figure class="gridle-gr-6 gridle-gr-12@small common-box__figure magin-less-2">
+          <a href="page-servicios.shtml" title="titulo"><img class="photo" src="images/background/bg-home-servicio.jpg" alt="código HTML5"></a>
+        </figure>
+        <div class="gridle-gr-6 gridle-gr-12@small common-box__body">
+          <div class="box">
+            <h2 class="title--subtitulo--small"><a href="page-servicios.shtml" title="titulo de ejemplo">¿Interesado en nuestros servicios?</a></h2>
+            <div class="common-box__excerpt m-b-small">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </div>
+            <a class="button--line" href="page-servicios.shtml" title="titulo de ejemplo"><i class="button__icon icon-elem icon-elem--add"></i><span>Leer más</span></a>
+          </div>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <!--seccion blog-newsfeed-widget-->
+  <section class="horizon--top">
+    <!--level 1 container -->
+    <div class="container">
+        <div class="gridle-row">
+          <!--level 2 GROUP-->
+          <div class="group-blog-newsfedd gridle-gr-8 gridle-gr-12@medium">
+              <!--level 3-->
+              <div class="border-b col-blog">
+                <h2 class="title__line--left title--seccion-center title__link"> <a href="https://www.ida.cl/blog/">Blog de IDA</a></h2>
+                <div class="gridle-row">
+                  <article class="gridle-gr-6 gridle-gr-6@medium gridle-gr-12@small common-box common-box__blog no-padding--left">
+                    <figure class="common-box__figure">
+                      <a href="#" title="titulo"><img class="photo" src="images/background/mkt.jpg" alt="código HTML5"></a>
+                    </figure>
+                    <div class="common-box__body blog__body ">
+                      <p class="common-box__epigraph">ida workshop</p>
+                      <h2 class="common-box__title--blog"><a href="#" title="titulo">Estrategias de marketing digital centradas en la UX</a></h2>
+                      <p class="common-box__meta--category"><i class="icon-elem icon-elem--attach_file"></i><a href="#" title="titulo">Diseño - Ida Blog</a></p>
+                      <p class="common-box__meta--time"><i class="icon-elem icon-elem--timer"></i>22 Noviembre 2016</p>
+                    </div>
+                  </article>
+                  <article class="gridle-gr-6 gridle-gr-6@medium gridle-gr-12@small common-box common-box__blog no-padding--left">
+                    <figure class="common-box__figure">
+                      <a href="#" title="titulo"><img class="photo" src="images/background/empresa.jpg" alt="código HTML5"></a>
+                    </figure>
+                    <div class="common-box__body blog__body ">
+                      <p class="common-box__epigraph">Estrategia digital y empresas</p>
+                      <h2 class="common-box__title--blog"><a href="#" title="titulo">Estrategias de marketing digital centradas en la UX</a></h2>
+                      <p class="common-box__meta--category"><i class="icon-elem icon-elem--attach_file"></i><a href="#" title="titulo">Estrategia Digital - Ida Blog</a></p>
+                      <p class="common-box__meta--time"><i class="icon-elem icon-elem--timer"></i>22 Noviembre 2016</p>
+                    </div>
+                  </article>
+                </div>
+              </div>
+              <!--level 3-->
+              <div class="col-newsfeed">
+                <h2 class="title__line--left title--seccion-center title__link"><a href="">Newsfeed</a></h2>
+                <div class="gridle-row">
+                  <article class="common-box common-box--no-image gridle-gr-6 gridle-gr-6@medium gridle-gr-12@small no-padding--left">
+                    <div class="common-box__body no-padding--left no-padding--top">
+                      <h2 class="common-box__title--blog"><a href="#" title="titulo de ejemplo">Clinton vs Trump: Internet como gran ganador</a></h2>
+                      <p class="common-box__meta--time"><i class="icon-elem icon-elem--timer"></i>15 Noviembre 2016</p>
+                      <div class="common-box__excerpt--tiny common-box__excerpt--serif--light common-box__excerpt--iconfin">
+                        <p>No sé si fue Barack Obama el que nos acostumbró a campañas políticas sacándole el jugo a redes sociales. Seguramente sí, porque hasta antes…</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article class="common-box common-box--no-image gridle-gr-6 gridle-gr-6@medium gridle-gr-12@small no-padding--left">
+                    <div class="common-box__body no-padding--left no-padding--top">
+                      <h2 class="common-box__title--blog"><a href="#" title="titulo de ejemplo">Nuevo integrante en nuestro equipo de desarrollo</a></h2>
+                      <p class="common-box__meta--time"><i class="icon-elem icon-elem--timer"></i>10 Noviembre 2016</p>
+                      <div class="common-box__excerpt--tiny common-box__excerpt--serif--light common-box__excerpt--iconfin">
+                        <p>Caracteres: 140. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoqu…</p>
+                      </div>
+                    </div>
+                  </article>
+                </div>
+              </div>
+          </div>
+          <!--level 2 ASIDE-->
+          <aside class="widget aside gridle-gr-4 gridle-gr-12@medium">
+            <div class="gridle-row">
+              <!--newsletter-->
+              <div class="common-box  aside__widget--grey gridle-gr-12 gridle-gr-6@medium gridle-gr-12@small ">
+                <div class="common-box__body aside__body">
+                	<h2 class="aside__title--newsletter">Newsletter</h2>
+                	<div class="common-box__excerpt">
+                		<p>Queremos compartir nuestra experiencia contigo. Infórmate con nuestro Boletín IDA</p>
+                	</div>
+                </div>
+                <form  action method="post" data-module="common-form">
+                  <div class="form-control" data-error-message="Debe llenar este campo con un e-mail válido.">
+                    <input type="email" class="form-control__field" required placeholder="Ingrese su email">
+                  </div>
+                  <div class="form-control" data-error-message="Debe llenar este campo sólo con valores alfabéticos.">
+                    <input class="form-control__field" required="" placeholder="Ingrese su Nombre" data-custom-validation="onlyString" type="text">
+                  </div>
+                  <a href="#" title="titulo de ejemplo" class="button button--main button--main--delgado">Suscribirme</a>
+                </form>
+              </div>
+              <!--workshop-->
+              <div class="common-box aside__widget--grey gridle-gr-12 gridle-gr-6@medium gridle-gr-12@small">
+                <div class="common-box__body aside__body">
+                  <figure class="common-box__figure aside__logo-widget">
+                    <img src="images/logos/idaworkshop-01.svg" alt="ida workshop">
+                  </figure>
+                  <div class="common-box__excerpt">
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et.</p>
+                  </div>
+                  <a href="#" title="titulo de ejemplo" class="button button--workshop">ir a ida workshops</a>
+                </div>
+              </div>
+            </div>
+          </aside>
+        </div>
+    </div>
+  </section>
+
+</main>
+<!--#include file="footer.shtml" -->

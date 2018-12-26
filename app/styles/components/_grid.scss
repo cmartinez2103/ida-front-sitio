@@ -1,0 +1,53 @@
+@import 'gridle/gridle-flex';
+
+// general settings
+@include gridle_setup((
+	context : 12,
+	gutter-width: 1rem,
+	gutter-top: 1rem,
+	gutter-bottom: 1rem,
+	classes-prefix: 'gridle-'
+));
+
+@include gridle_register_state(large, (
+	max-width: $large
+));
+
+@include gridle_register_state(largemedium, (
+	max-width: $large_medium
+));
+
+@include gridle_register_state(medium, (
+	max-width: $medium
+));
+
+@include gridle_register_state(tablet, (
+	max-width: $tablet
+));
+
+@include gridle_register_state(small, (
+	max-width: $small
+));
+
+@include gridle_generate_classes();
+
+.container {
+	max-width: (strip-unit($extra_large_container) * 1rem);
+	margin: 0 auto;
+	padding: 0px 15px;
+	position: relative;
+}
+
+.container-medium {
+	max-width: (strip-unit($medium_container) * 1rem);
+	margin: 0 auto;
+	padding: 0px 15px;
+	position: relative;
+}
+
+.container-100 {
+	max-width: 100%;
+	margin: 0 auto;
+	padding: 0px 0px;
+	position: relative;
+}

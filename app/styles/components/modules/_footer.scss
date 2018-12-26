@@ -1,0 +1,139 @@
+.footer-bar {
+	.gridle-row{
+		height: 100%;
+	}
+	padding: 60px 0;
+	background: map-get(map-get($colors_map, grey), dark);
+	color: map-get(map-get($colors_map, grey), lighter);
+	font-size: map-get($text_sizes, tiny);
+
+  *[class^="gridle-gr-"]{
+		padding: 0px;
+	}
+	.app-brand__logo{
+		width: 100px;
+		margin-top: 20px;
+	}
+	// basic formatting
+	p{
+		margin: 0px;
+	}
+	a {
+		color: $color_white-opacity-80;
+
+		&:hover {
+			color: map-get(map-get($colors_map, grey), light);
+			text-decoration: underline;
+		}
+	}
+	nav{
+		ul{
+			margin: 0px;
+		}
+	}
+	&__link {
+		display: block;
+		letter-spacing: 1.5px;
+		font-weight: 700;
+		padding-bottom: 1rem;
+		text-transform: uppercase;
+		font-size: map-get($text_sizes, eleven);
+
+
+		&:not(:first-child) { margin-top: .5rem; }
+		a{
+			padding: 0px;
+			padding-bottom: 1rem;
+			color: $color_white-opacity-80;
+		}
+		&--inline {
+			display: inline-block;
+			vertical-align: middle;
+			padding: 0 1rem;
+
+		}
+	}
+
+	.info{
+		display: flex;
+		justify-content: space-between;
+		.item-contacto{
+	    display: flex;
+	    align-content: center;
+			margin-bottom: 1rem;
+	    i{
+	      margin-right: 5px;
+	    }
+	  }
+		border-left: 1px solid $color_white-opacity-10;
+		padding-left: .5rem;
+	}
+  @include media( large-medium-down ){
+		padding: 2rem 0;
+		.primary-menu-footer, .secondary-menu-footer{
+			padding-bottom: 2rem;
+		}
+		&__link{
+			padding: .5rem 0px;
+		}
+		nav{
+			ul{
+				padding-left: 0px;
+			}
+		}
+	.info{
+		border-left: 0px;
+		padding-left: 0rem;
+		}
+	}
+	@include media( small-down ){
+		.primary-menu-footer, .secondary-menu-footer{
+			border-bottom: 1px solid $color_white-opacity-10;
+			border-top: 1px solid $color_white-opacity-10;
+			padding: 2rem 0;
+		}
+		&__margin{
+			margin-top: 2rem;
+		}
+	}
+}
+.social {
+	ul{
+		padding-left: 0px;
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.social--link{
+		padding: 12px 14px;
+		margin: .1rem;
+		&:before{
+			color: $color_white;
+		}
+		a{
+			padding: 0px;
+			color: $color_white;
+		}
+		&:first-child{
+			padding: 12px 16px;
+		}
+	}
+	&--equipo{
+		.social--link{
+			background: $color_white;
+			border: 1px solid $color_grey_lighter;
+			border-radius: 2px;
+			&:before{
+				color: $color_grey_light;
+			}
+		}
+	}
+	&--footer{
+		.social--link{
+			background: $color_white-opacity-10;
+			border-radius: 50%;
+			&:before{
+				color: $color_white;
+			}
+		}
+	}
+}

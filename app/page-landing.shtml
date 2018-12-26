@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- favicon -->
+  <link rel="icon" type="image/png" sizes="16x16" href="images/logos/logo-ida.png">
+  <link rel="manifest" href="images/logos/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="images/logos/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <!-- favicon -->
+  <title>IDA</title>
+  <link rel="stylesheet" href="css/main.css">
+
+  <body>
+    <header class="container header-landing">
+      <div class="gridle-row">
+        <div class="gridle-gr-6">
+          <a class="app-brand app-brand--inline" href="index.shtml" title="titulo de ejemplo">
+            <img class="app-brand__logo" src="images/logos/logo-ida.svg" alt="Logo">
+          </a>
+        </div>
+        <div class="gridle-gr-6">
+          <a class="float-r button button--main_line link-scroll" href="#form-ancla" title="titulo de ejemplo">descarga el ebook gratis</a>
+        </div>
+      </div>
+    </header>
+
+    <main class="landing">
+      <!--home-->
+      <section class="horizon presentacion">
+        <div class="container">
+          <div class="gridle-row">
+            <div class="gridle-gr-6 gridle-gr-12@tablet">
+              <h1 class="title--full title__line--left">Marketing digital orientado a la Experiencia de Usuario</h1>
+              <p>Este e-book reúne todos los artículos que creemos pueden servir como guía para iniciar una <b>Estrategia de Marketing digital.</b></p>
+              <p>Revisamos desde la creación de experiencia digital - con definición de objetivos, arquetipos y por qué es relevante - hasta las métricas que sirven para hacer seguimiento de los logros de un proyecto en internet.</p>
+            </div>
+            <div class="gridle-gr-6 gridle-gr-12@tablet">
+              <img class="absolute-position" src="images/ebooks/rueda.png" alt="">
+            </div>
+          </div>
+      </section>
+      <!--destacado-->
+      <section class="bg form-landing" style="background-image: url(images/ebooks/bg-destacado.jpg);">
+        <div class="velo">
+        <div id="form-ancla" class="container pt-109">
+          <!--formulario-->
+          <div class="gridle-row">
+            <div class="gridle-gr-5 gridle-gr-12@tablet">
+              <form action="" class="form form-control__white" data-module="common-form">
+                <legend class="form-legend">¿Estás listo para iniciar una Estrategia de Marketing digital ?</legend>
+                <div class="form-control">
+                  <label for="nombre" class="form-control__label">Nombre*</label>
+                  <input type="text" name="contacto-nombre" class="form-control__field" placeholder="Ingrese su nombre" data-custom-validation="onlyString" required>
+                  <span class="form-control__text">Debe contener solo valores alfabéticos. Ejemplo: Francisco Pérez</span>
+                </div>
+                <div class="form-control">
+                  <label for="email" class="form-control__label">E-mail*</label>
+                  <input type="email" name="contacto-email" class="form-control__field" placeholder="Ingrese su e-mail" required>
+                  <span class="form-control__text">Debe llenar este campo con un e-mail válido</span>
+                </div>
+                <div class="form-control">
+                  <label for="nombre" class="form-control__label">Empresa u organización*</label>
+                  <input type="text" name="contacto-empresa" class="form-control__field" placeholder="Ingrese su empresa u organización" required>
+                </div>
+                <div class="form-control">
+                  <label for="nombre" class="form-control__label">Cargo*</label>
+                  <input type="text" name="contacto-cargo" class="form-control__field" placeholder="Ingrese su cargo" required>
+                </div>
+                <div class="form-control">
+                  <input value="descarga Ebook" type="hidden" name="contacto-tipo">
+                </div>
+                <div class="form-control">
+                  <button type="submit" class="btn-form button button--main full-width" disabled="true">Descargar ebook gratis</button>
+                  <small>*dedes completar todos los campos para descargar</small>
+                </div>
+              </form>
+            </div>
+            <div class="gridle-gr-7 gridle-gr-12@tablet contenidos-lista">
+              <h2 class="titulo-lista">Nuestro eBook aborda las siguientes áreas: </h2>
+              <ul class="container-lista">
+                <li class="item-lista">Definiciones iniciales de una estrategia</li>
+                <li class="item-lista">Planificación de la estrategia SEO</li>
+                <li class="item-lista">Creación de contenidos de calidad</li>
+                <li class="item-lista">Estrategia de marketing de contenidos</li>
+                <li class="item-lista">Medición y seguimiento del marketing de contenidos</li>
+                <li class="item-lista">Recomendaciones </li>
+              </ul>
+              <p>Esperamos que sea útil para ti ¡Qué lo disfrutes!</p>
+            </div>
+          </div>
+        </div>
+        </div>
+      </section>
+
+      <section class="horizon horizon--top m-48 descubre">
+        <div class="container">
+          <h2 class="title__line--left upper">Descubre más sobre IDA</h2>
+          <div class="gridle-row">
+            <div class="gridle-gr-4 gridle-gr-12@tablet">
+              <div class="links grey-bg ">
+                <img src="images/ebooks/logo_negro.svg" alt="">
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et.</p>
+                <a class="button button--main" href="#">ir a sitio ida</a>
+              </div>
+            </div>
+            <div class="gridle-gr-4 gridle-gr-12@tablet">
+              <div class="links grey-bg ">
+                <img src="images/ebooks/ida_workshop.svg" alt="">
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et.</p>
+                <a class="button button--workshop" href="#">ir a ida workshop</a>
+              </div>
+            </div>
+            <div class="gridle-gr-4 gridle-gr-12@tablet">
+              <div class="links grey-bg ">
+                <img src="images/ebooks/ida_blog.svg" alt="">
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et.</p>
+                <a class="button button--main" href="#">ir a ida blog</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer-bar">
+      <div class="container">
+        <div class="flex">
+          <div class="logo-footer">
+            <a class="app-brand" href="/">
+              <img class="app-brand__logo" src="images/logos/logo-ida-cuadrado.svg" alt="Logo">
+            </a>
+          </div>
+          <div class="info">
+            <div class="gridle-row">
+              <div class="gridle-gr-4">
+                <div class="item-contacto"><i class="icon-elem icon-elem--edit_location"></i><a target="_blank" href="http://maps.google.com/?q=Dr+Manuel+Barros+Borgoño+71,+Providencia,+Región+Metropolitana">Doctor Barros Borgoño 71 Oficina 603, Providencia, Santiago - Chile</a></div>
+              </div>
+              <div class="gridle-gr-4">
+                <div class="item-contacto"><i class="icon-elem icon-elem--phone_android"></i><a target="_blank" href="tel:+5692356270">+56 9 2356270</a></div>
+              </div>
+              <div class="gridle-gr-4">
+                <div class="item-contacto"><i class="icon-elem icon-elem--markunread"></i><a target="_blank" href="mailto:contacto@empresa.cl">contacto@empresa.cl</a></div>
+              </div>
+            </div>
+          </div>
+
+          <nav class="social social--footer footer-bar__margin" data-module="rss-navigation">
+            <ul>
+              <li class="social--link icon-elem social-link--facebook">
+                <a href="#" target="_blank" title="titulo de ejemplo"></a>
+              </li>
+              <li class="social--link icon-elem social-link--twitter">
+                <a href="#" target="_blank" title="titulo de ejemplo"></a>
+              </li>
+              <li class="social--link icon-elem social-link--linkedin">
+                <a href="#" target="_blank" title="titulo de ejemplo"></a>
+              </li>
+              <li class="social--link icon-elem social-link--instagram">
+                <a href="#" target="_blank" title="titulo de ejemplo"></a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </footer>
+      <script src="scripts/min/main.min.js"></script>
+      <script src="scripts/libs/jquery-3.1.0.min.js"></script>
+      <script src="scripts/main.js"></script>
+    </body>
+    </html>

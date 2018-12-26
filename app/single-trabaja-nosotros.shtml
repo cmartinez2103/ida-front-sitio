@@ -1,0 +1,105 @@
+<!--#include file="header.shtml" -->
+<main class="pad__top--section">
+
+  <section>
+    <div class="container">
+      <div class="gridle-row">
+        <div class="gridle-gr-8 gridle-gr-12@small">
+          <div class="main__title">
+            <div class="main__title--estado">
+              <h1 class="title--subtitulo--regular">Diseñador UI</h1>
+              <span>(sin vacantes disponible)</span>
+            </div>
+            <div class="common-box__excerpt">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            </div>
+          </div>
+          <div class="common-box common-box--generico">
+            <figure class="common-box__figure">
+              <img src="images/disenoui.jpg" alt="">
+            </figure>
+            <div class="common-box__body">
+              <div class="common-box__excerpt">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis tellus non convallis tempor. Nullam vitae luctus nulla, a euismod urna. Vestibulum vitae aliquet nibh. Praesent venenatis mi eu viverra tristique.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a velit eu sapien sodales malesuada vel id quam. Sed dictum accumsan posuere. Proin sagittis purus porttitor faucibus condimentum. Mauris scelerisque tincidunt auctor.
+Nulla ligula ex, viverra quis venenatis consectetur, consequat ac turpis. Cras ac vehicula risus. Mauris eu purus eget nunc efficitur convallis eget in leo. Sed ultricies ex id tellus faucibus, eget blandit nibh feugiat. Cras id magna vel leo porta dapibus at vel libero. Sed sed ultrices nunc. Praesent iaculis faucibus sollicitudin. Sed sit amet pellentesque nisi, id eleifend ex. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+                <ul class="list-disc">
+                  <li>Lorem ipsum dolor sit amet, </li>
+                  <li>consectetur adipiscing elit. Donec sagittis ellus non convallis tempor</li>
+                  <li>Nullam vitae luctus nulla, a euismod urna. Vestibulum vitae aliquet nibh. </li>
+                  <li>Praesent venenatis mi eu viverra tristique. </li>
+                  <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                  <li>Morbi a velit eu sapien sodales malesuada vel id quam. </li>
+                  <li>Sed dictum accumsan posuere. Proin sagittis purus porttitor faucibus condimentum. </li>
+                  <li>Mauris scelerisque tincidunt auctor. </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="form-control__pop form-control__pop--danger--none-before">
+            <h3>Sin vacantes disponibles</h3>
+            <p>En este momento no tenemos vacantes disponibles.  De todas maneras, puedes enviarnos tu CV desde el mismo formulario para futuras ofertas laborales.</p>
+          </div>
+          <div class="form-control__pop form-control__pop--success--none-before">
+            <h3>Con vacantes disponibles</h3>
+            <p>En este momento tenemos vacantes disponibles. Puedes enviarnos tu CV desde el mismo formulario para la oferta laboral.</p>
+          </div>
+          <div class="">
+            <h2>Información del postulante</h2>
+            <form action="" class="gridle-row form form-control__grey"  data-module="common-form">
+                <div class="form-control gridle-gr-6 gridle-gr-12@tablet" >
+                    <label for="nombre" class="form-control__label">Nombre*</label>
+                    <input type="text" name="nombre" class="form-control__field" placeholder="Ingrese su nombre" data-custom-validation="onlyString" required>
+                    <span class="form-control__text">Debe contener solo valores alfabéticos. Ejemplo: Francisco Pérez</span>
+                </div>
+                <div class="form-control gridle-gr-6 gridle-gr-12@tablet">
+                    <label for="apellidop" class="form-control__label">Apellido*</label>
+                    <input type="text" name="apellido"  class="form-control__field" placeholder="Ingrese su apellido" data-custom-validation="onlyString" required>
+                    <span class="form-control__text">Debe contener solo valores alfabéticos. Ejemplo: Ramírez</span>
+                </div>
+                <div class="form-control gridle-gr-6 gridle-gr-12@tablet">
+                    <label for="email" class="form-control__label">E-mail*</label>
+                    <input type="email" name="email"  class="form-control__field" placeholder="Ingrese su e-mail" required>
+                    <span class="form-control__text">Debe llenar este campo con un e-mail válido</span>
+                </div>
+                <div class="form-control gridle-gr-6 gridle-gr-12@tablet" >
+                    <label for="" class="form-control__label">Número de contacto telefónico*</label>
+                    <input type="text" name="telefono"  class="form-control__field" placeholder="Ingrese su número de teléfono" data-custom-validation="onlyNumbers" data-minlength="8" data-maxlength="10" required>
+                    <span class="form-control__text">Debe contener código de área 2 si es fijo o 9 si es móvil. Ejemplo: 9-75920422</span>
+                </div>
+                <div class="form-control gridle-gr-6 gridle-gr-12@tablet" >
+                    <label for="" class="form-control__label">Pretensiones de renta</label>
+                    <input type="text" name="renta" class="form-control__field" placeholder="Ingresa tus pretensiones de renta en pesos " data-custom-validation="validFile">
+                    <span class="form-control__text">Ingresa una cifra válida. Ejemplo: $500.000</span>
+                </div>
+                <div class="form-control gridle-gr-6 gridle-gr-12@tablet" >
+                  <label for="" class="form-control__label">Curriculum*</label>
+                  <div class="input-validation form-control__file">
+                    <input type="file" name="" value="" class="form-control__fileinput">
+                  </div>
+                  <span class="form-control__text">(Formato permitido PDF y DOC, tamaño máximo 500kB.)</span>
+                </div>
+                <div class="form-control gridle-gr-12">
+                  <label for="" class="form-control__label">Más Información</label>
+                  <textarea class="form-control__field" name="name" rows="8" cols="80" placeholder="Ingresa información adicional que consideres importante para tu postulación"></textarea>
+                  <span class="form-control__text">Ingresa tu consulta, esta puede debe tener una extensión máxima de 2000 caracteres</span>
+                </div>
+                <div class="form-control ">
+                  <input class="button button--main" type="submit" value="postular">
+                </div>
+            </form>
+          </div>
+
+        </div>
+        <div class="aside gridle-gr-4 gridle-gr-12@small">
+          <aside class=" aside__widget--grey aside__body">
+              <h3 class="aside__title--normal">Sobre Nosotros</h3>
+              <p>Llamado a ver página sobre nosotros en 140 caracteres Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commod Sobre Nosotros</p>
+          </aside>
+        </div>
+
+    </div>
+  </section>
+
+
+</main>
+<!--#include file="footer.shtml" -->

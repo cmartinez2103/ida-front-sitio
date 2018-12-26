@@ -1,0 +1,8 @@
+<div class="header-page header-page">
+  <div class="container">
+    <div class="gridle-row header-page__simple">
+        <h1 class="title--inner__small">Titulo Página</h1>
+        <p>¿En qué podemos ayudarte? Si necesitas que conversemos o tienes una oferta interesante en la que podamos aportar, déjanos tus datos y te responderemos a la brevedad.</p>
+    </div>
+  </div>
+</div>

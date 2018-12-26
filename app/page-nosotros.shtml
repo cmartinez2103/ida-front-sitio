@@ -1,0 +1,198 @@
+<!--#include file="header.shtml" -->
+<main>
+  <!--#include file="partials/header-page.shtml" -->
+  <section class="nosotros">
+    <div class="container-medium">
+      <h2 class="title--subtitulo--regular text--white">Declaración de nuestros principios</h2>
+      <div class="gridle-row">
+        <article class="common-box__row">
+          <figure class="common-box__figure" style="background-image: url(images/nosotros/team.svg)">
+            <!--imagen bg-->
+          </figure>
+          <div class="common-box__body">
+            <h2 class="title--sub-subtitulo--regular title__line--left">Trabajamos en forma colaborativa</h2>
+            <div class="common-box__excerpt">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div>
+          </div>
+        </article>
+        <article class="common-box__row">
+          <div class="common-box__body">
+            <h2 class="title--sub-subtitulo--regular title__line--left">Buscamos relaciones a largo plazo</h2>
+            <div class="common-box__excerpt">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div>
+          </div>
+          <figure class="common-box__figure" style="background-image: url(images/nosotros/team-group.svg)">
+          <!--imagen bg-->
+          </figure>
+        </article>
+        <article class="common-box__row">
+          <figure class="common-box__figure" style="background-image: url(images/nosotros/experiencia.svg)">
+            <!--imagen bg-->
+          </figure>
+          <div class="common-box__body">
+            <h2 class="title--sub-subtitulo--regular title__line--left">Diseñamos las mejores experiencias</h2>
+            <div class="common-box__excerpt">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div>
+          </div>
+        </article>
+        <article class="common-box__row">
+          <div class="common-box__body">
+            <h2 class="title--sub-subtitulo--regular title__line--left">Identificamos desafíos y oportunidades</h2>
+            <div class="common-box__excerpt">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div>
+          </div>
+          <figure class="common-box__figure" style="background-image: url(images/nosotros/loup.svg)">
+            <!--imagen bg-->
+          </figure>
+        </article>
+        <article class="common-box__row">
+          <figure class="common-box__figure" style="background-image: url(images/nosotros/team-apoyo.svg)">
+            <!--imagen bg-->
+          </figure>
+          <div class="common-box__body">
+            <h2 class="title--sub-subtitulo--regular title__line--left">Garantizamos nuestro apoyo</h2>
+            <div class="common-box__excerpt">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+  <section class="equipo">
+    <div class="container">
+      <h2>Nuestro Equipo</h2>
+      <div class="gridle-row">
+        <div class="gridle-gr-3 gridle-gr-6@small">
+          <figure class="common-box__figure">
+            <a href="" data-module="modal" data-role="modal-btn" data-target="partials/modal--equipo.shtml">
+              <img src="images/nosotros/max.jpg" alt="">
+              <div class="common-box__icon--hover">
+                <i class="icon-elem icon-elem--zoom_in"></i>
+              </div>
+            </a>
+          </figure>
+        </div>
+        <div class="gridle-gr-3 gridle-gr-6@small">
+          <figure class="common-box__figure">
+            <a href="">
+              <img src="images/nosotros/bea.jpg" alt="">
+              <div class="common-box__icon--hover">
+                <i class="icon-elem icon-elem--zoom_in"></i>
+              </div>
+            </a>
+          </figure>
+        </div>
+        <div class="gridle-gr-3 gridle-gr-6@small">
+          <figure class="common-box__figure">
+            <a href="">
+              <img src="images/nosotros/nico.jpg" alt="">
+              <div class="common-box__icon--hover">
+                <i class="icon-elem icon-elem--zoom_in"></i>
+              </div>
+            </a>
+          </figure>
+        </div>
+        <div class="gridle-gr-3 gridle-gr-6@small">
+          <figure class="common-box__figure">
+            <a href="">
+              <img src="images/nosotros/caco.jpg" alt="">
+              <div class="common-box__icon--hover">
+                <i class="icon-elem icon-elem--zoom_in"></i>
+              </div>
+            </a>
+          </figure>
+        </div>
+      </div>
+      <div class="gridle-row">
+        <div class="gridle-gr-3 gridle-gr-6@small">
+          <figure class="common-box__figure">
+            <a href="">
+              <img src="images/nosotros/ulises.jpg" alt="">
+              <div class="common-box__icon--hover">
+                <i class="icon-elem icon-elem--zoom_in"></i>
+              </div>
+            </a>
+          </figure>
+        </div>
+        <div class="gridle-gr-3 gridle-gr-6@small">
+          <figure class="common-box__figure">
+            <a href="">
+              <img src="images/nosotros/andrea.jpg" alt="">
+            </a>
+            <div class="common-box__icon--hover">
+              <i class="icon-elem icon-elem--zoom_in"></i>
+            </div>
+          </figure>
+        </div>
+        <div class="gridle-gr-3 gridle-gr-6@small">
+          <figure class="common-box__figure">
+            <a href="">
+              <img src="images/nosotros/bea.jpg" alt="">
+              <div class="common-box__icon--hover">
+                <i class="icon-elem icon-elem--zoom_in"></i>
+              </div>
+            </a>
+          </figure>
+        </div>
+        <div class="gridle-gr-3 gridle-gr-6@small">
+          <figure class="common-box__figure">
+            <a href="">
+              <img src="images/nosotros/ulises.jpg" alt="">
+              <div class="common-box__icon--hover">
+                <i class="icon-elem icon-elem--zoom_in"></i>
+              </div>
+            </a>
+          </figure>
+        </div>
+      </div>
+      <div class="gridle-row">
+        <div class="gridle-gr-3 gridle-gr-6@small">
+          <figure class="common-box__figure">
+            <a href="">
+              <img src="images/nosotros/max.jpg" alt="">
+              <div class="common-box__icon--hover">
+                <i class="icon-elem icon-elem--zoom_in"></i>
+              </div>
+            </a>
+          </figure>
+        </div>
+        <div class="gridle-gr-3 gridle-gr-6@small">
+          <figure class="common-box__figure">
+            <a href="">
+              <img src="images/nosotros/bea.jpg" alt="">
+              <div class="common-box__icon--hover">
+                <i class="icon-elem icon-elem--zoom_in"></i>
+              </div>
+            </a>
+          </figure>
+        </div>
+        <div class="gridle-gr-3 gridle-gr-6@small">
+          <figure class="common-box__figure">
+            <a href="">
+              <img src="images/nosotros/nico.jpg" alt="">
+              <div class="common-box__icon--hover">
+                <i class="icon-elem icon-elem--zoom_in"></i>
+              </div>
+            </a>
+          </figure>
+        </div>
+        <div class="gridle-gr-3 gridle-gr-6@small">
+          <figure class="common-box__figure">
+            <a href="">
+              <img src="images/nosotros/caco.jpg" alt="">
+              <div class="common-box__icon--hover">
+                <i class="icon-elem icon-elem--zoom_in"></i>
+              </div>
+            </a>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+<!--#include file="footer.shtml" -->

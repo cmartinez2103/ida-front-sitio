@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- favicon -->
+  <link rel="icon" type="image/png" sizes="16x16" href="images/logos/logo-ida.png">
+  <link rel="manifest" href="images/logos/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="images/logos/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <!-- favicon -->
+  <title>IDA</title>
+  <link rel="stylesheet" href="css/main.css">
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,700i,900i,900|Merriweather:300,400,700,900" rel="stylesheet">
+<body>
+
+<header class="header-bar">
+  <nav class="nav-bar" data-module="nav-bar">
+    <div class="container">
+      <div class="nav-bar__holder">
+        <div class="nav-bar__brand">
+          <a class="app-brand app-brand--inline" href="index.shtml" title="titulo de ejemplo">
+            <img class="app-brand__logo" src="images/logos/logo-ida.svg" alt="Logo">
+          </a>
+        </div>
+        <button class="nav-bar__deploy-button" aria-label="Ver menú" data-role="nav-deployer">
+          <span></span>
+        </button>
+        <div class="nav-bar__body" data-role="nav-body">
+          <div class="nav-bar__menu-holder">
+            <ul class="nav-bar__menu nav-bar__menu--primary">
+              <li class="menu-item menu-item--mb" data-role="nav-item">
+                <a class="menu-item__link" href="index.shtml" title="titulo de ejemplo">Inicio</a>
+              </li>
+              <li class="menu-item" data-role="nav-item">
+                <a class=" menu-item__link" href="page-proyectos.shtml" title="titulo de ejemplo">proyectos</a>
+              </li>
+              <li class="menu-item" data-role="nav-item">
+                <a class="menu-item__link" href="page-servicios.shtml" title="titulo de ejemplo">Servicios</a>
+              </li>
+              <li class="menu-item" data-role="nav-item">
+                <a class="menu-item__link" href="page-nosotros.shtml" title="titulo de ejemplo">sobre nosotros</a>
+              </li>
+              <li class="menu-item" data-role="nav-item">
+                <a class="menu-item__link" href="#" title="titulo de ejemplo">workshop</a>
+              </li>
+              <li class="menu-item" data-role="nav-item">
+                <a class="menu-item__link" href="#" title="titulo de ejemplo">blog</a>
+              </li>
+              <li class="menu-item menu-item--cotizar" data-role="nav-item">
+                <a class="button button--main_line" href="#" title="titulo de ejemplo">cotizar</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>

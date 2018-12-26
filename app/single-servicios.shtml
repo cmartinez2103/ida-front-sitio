@@ -1,0 +1,193 @@
+<!--#include file="header.shtml" -->
+<main>
+  <!--#include file="partials/header-page.shtml" -->
+  <section class="servicios__single">
+    <div class="bg bg__servicios-single" style="background-image: url(images/servicios/servicio1.jpg)"></div>
+    <div class="container ">
+      <div class="servicios__single__container">
+        <h2 class="title--subtitulo--regular">Arquitectura de información</h2>
+        <div class="gridle-row">
+          <div class="gridle-gr-7 gridle-gr-12@medium">
+            <div class="sub-servicios">
+              <div class="sub-servicios--icon">
+                <img src="images/iconos/sitemap.svg" alt="mapa de interacción">
+              </div>
+              <div class="box">
+                <h2 class="title--sub-subtitulo--regular">Mapas de navegación</h2>
+                <p>Lorem ipsum dolor sit ame.  elit. Lorem ipsum dolor sit amet, consectetur adipisicim dolor sit amet, consectetur adipisicing elit.</p>
+              </div>
+            </div>
+            <div class="sub-servicios">
+              <div class="sub-servicios--icon">
+                <img src="images/iconos/sitemap.svg" alt="mapa de interacción">
+              </div>
+              <div class="box">
+                <h2>Wireframes</h2>
+                <p>Organización y formalización de las secciones, contenidos y elementos nuevos (a partir del cardsorting) y/o existentes de un sitio web.</p>
+              </div>
+            </div>
+          </div>
+
+          <aside class="gridle-gr-5 gridle-gr-12@medium aside__single ">
+            <div class="common-box proyecto_relacionado">
+              <h3 class="common-box__epigraph">Proyecto relacionado</h3>
+              <h2 class="common-box__title--blog--inner"><a href="#">¿Cómo mejoramos el sitio CDEC SIC?</a></h2>
+            </div>
+            <div class="common-box">
+              <h3 class="common-box__epigraph">Aprende más sobre arquitectura de información</h3>
+              <h2 class="common-box__title--blog--inner"><a href="#">¿Para qué sirve un wireframe?</a></h2>
+              <p class="common-box__meta--category"><i class="icon-elem icon-elem--attach_file"></i><a href="#" title="titulo">Diseño - Ida Blog</a></p>
+              <p class="common-box__meta--time"><i class="icon-elem icon-elem--timer"></i>22 Noviembre 2016</p>
+            </div>
+          </aside>
+
+          <div class="gridle-gr-12 gridle-gr-12@medium">
+            <a href="#" class="button button--main_line">Quiero este servicio</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="servicios__single">
+    <div class="bg bg__servicios-single" style="background-image: url(images/servicios/servicio2.jpg)"></div>
+    <div class="container ">
+      <div class="servicios__single__container">
+        <h2 class="title--subtitulo--regular">Arquitectura de información</h2>
+        <div class="gridle-row">
+          <div class="gridle-gr-7 gridle-gr-12@medium">
+            <div class="sub-servicios">
+              <div class="sub-servicios--icon">
+                <img src="images/iconos/sitemap.svg" alt="mapa de interacción">
+              </div>
+              <div class="box">
+                <h2 class="title--sub-subtitulo--regular">Mapas de navegación</h2>
+                <p>Lorem ipsum dolor sit ame.  elit. Lorem ipsum dolor sit amet, consectetur adipisicim dolor sit amet, consectetur adipisicing elit.</p>
+              </div>
+            </div>
+            <div class="sub-servicios">
+              <div class="sub-servicios--icon">
+                <img src="images/iconos/sitemap.svg" alt="mapa de interacción">
+              </div>
+              <div class="box">
+                <h2>Wireframes</h2>
+                <p>Organización y formalización de las secciones, contenidos y elementos nuevos (a partir del cardsorting) y/o existentes de un sitio web.</p>
+              </div>
+            </div>
+          </div>
+
+          <aside class="gridle-gr-5 gridle-gr-12@medium aside__single ">
+            <div class="common-box proyecto_relacionado">
+              <h3 class="common-box__epigraph">Proyecto relacionado</h3>
+              <h2 class="common-box__title--blog--inner"><a href="#">¿Cómo mejoramos el sitio CDEC SIC?</a></h2>
+            </div>
+            <div class="common-box">
+              <h3 class="common-box__epigraph">Aprende más sobre arquitectur de información</h3>
+              <h2 class="common-box__title--blog--inner"><a href="#">¿Para qué sirve un wireframe?</a></h2>
+              <p class="common-box__meta--category"><i class="icon-elem icon-elem--attach_file"></i><a href="#" title="titulo">Diseño - Ida Blog</a></p>
+              <p class="common-box__meta--time"><i class="icon-elem icon-elem--timer"></i>22 Noviembre 2016</p>
+            </div>
+          </aside>
+
+          <div class="gridle-gr-12 gridle-gr-12@medium">
+            <a href="#" class="button button--main_line">Quiero este servicio</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="servicios__single">
+    <div class="bg bg__servicios-single" style="background-image: url(images/servicios/servicio3.jpg)"></div>
+    <div class="container ">
+      <div class="servicios__single__container">
+        <h2 class="title--subtitulo--regular">Arquitectura de información</h2>
+        <div class="gridle-row">
+          <div class="gridle-gr-7 gridle-gr-12@medium">
+            <div class="sub-servicios">
+              <div class="sub-servicios--icon">
+                <img src="images/iconos/sitemap.svg" alt="mapa de interacción">
+              </div>
+              <div class="box">
+                <h2>Mapas de navegación</h2>
+                <p>Lorem ipsum dolor sit ame.  elit. Lorem ipsum dolor sit amet, consectetur adipisicim dolor sit amet, consectetur adipisicing elit.</p>
+              </div>
+            </div>
+            <div class="sub-servicios">
+              <div class="sub-servicios--icon">
+                <img src="images/iconos/sitemap.svg" alt="mapa de interacción">
+              </div>
+              <div class="box">
+                <h2>Wireframes</h2>
+                <p>Organización y formalización de las secciones, contenidos y elementos nuevos (a partir del cardsorting) y/o existentes de un sitio web.</p>
+              </div>
+            </div>
+          </div>
+
+          <aside class="gridle-gr-5 gridle-gr-12@medium aside__single ">
+            <div class="common-box proyecto_relacionado">
+              <h3 class="common-box__epigraph">Proyecto relacionado</h3>
+              <h2 class="common-box__title--blog--inner"><a href="#">¿Cómo mejoramos el sitio CDEC SIC?</a></h2>
+            </div>
+            <div class="common-box">
+              <h3 class="common-box__epigraph">Aprende más sobre arquitectur de información</h3>
+              <h2 class="common-box__title--blog--inner"><a href="#">¿Para qué sirve un wireframe?</a></h2>
+              <p class="common-box__meta--category"><i class="icon-elem icon-elem--attach_file"></i><a href="#" title="titulo">Diseño - Ida Blog</a></p>
+              <p class="common-box__meta--time"><i class="icon-elem icon-elem--timer"></i>22 Noviembre 2016</p>
+            </div>
+          </aside>
+
+          <div class="gridle-gr-12 gridle-gr-12@medium">
+            <a href="#" class="button button--main_line">Quiero este servicio</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="servicios__single">
+    <div class="bg bg__servicios-single" style="background-image: url(images/servicios/servicio4.jpg)"></div>
+    <div class="container ">
+      <div class="servicios__single__container">
+        <h2 class="title--subtitulo--regular">Arquitectura de información</h2>
+        <div class="gridle-row">
+          <div class="gridle-gr-7 gridle-gr-12@medium">
+            <div class="sub-servicios">
+              <div class="sub-servicios--icon">
+                <img src="images/iconos/sitemap.svg" alt="mapa de interacción">
+              </div>
+              <div class="box">
+                <h2>Mapas de navegación</h2>
+                <p>Lorem ipsum dolor sit ame.  elit. Lorem ipsum dolor sit amet, consectetur adipisicim dolor sit amet, consectetur adipisicing elit.</p>
+              </div>
+            </div>
+            <div class="sub-servicios">
+              <div class="sub-servicios--icon">
+                <img src="images/iconos/sitemap.svg" alt="mapa de interacción">
+              </div>
+              <div class="box">
+                <h2>Wireframes</h2>
+                <p>Organización y formalización de las secciones, contenidos y elementos nuevos (a partir del cardsorting) y/o existentes de un sitio web.</p>
+              </div>
+            </div>
+          </div>
+
+          <aside class="gridle-gr-5 gridle-gr-12@medium aside__single ">
+            <div class="common-box proyecto_relacionado">
+              <h3 class="common-box__epigraph">Proyecto relacionado</h3>
+              <h2 class="common-box__title--blog--inner"><a href="#">¿Cómo mejoramos el sitio CDEC SIC?</a></h2>
+            </div>
+            <div class="common-box">
+              <h3 class="common-box__epigraph">Aprende más sobre arquitectur de información</h3>
+              <h2 class="common-box__title--blog--inner"><a href="#">¿Para qué sirve un wireframe?</a></h2>
+              <p class="common-box__meta--category"><i class="icon-elem icon-elem--attach_file"></i><a href="#" title="titulo">Diseño - Ida Blog</a></p>
+              <p class="common-box__meta--time"><i class="icon-elem icon-elem--timer"></i>22 Noviembre 2016</p>
+            </div>
+          </aside>
+
+          <div class="gridle-gr-12 gridle-gr-12@medium">
+            <a href="#" class="button button--main_line">Quiero este servicio</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+<!--#include file="footer.shtml" -->

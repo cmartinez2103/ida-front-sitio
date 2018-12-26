@@ -1,0 +1,84 @@
+<footer class="footer-bar">
+  <div class="container gridle-no-gutter">
+    <!---level 1 row principal-->
+    <div class="gridle-row">
+      <div class="gridle-gr-7 gridle-gr-12@largemedium">
+        <!---level 2 row secundario-->
+        <div class="gridle-row">
+          <div class="gridle-gr-3 gridle-gr-12@small">
+            <a class="app-brand" href="/">
+    					<img class="app-brand__logo" src="images/logos/logo-ida-cuadrado.svg" alt="Logo">
+    				</a>
+          </div>
+          <nav class="gridle-gr-4 gridle-gr-6@small primary-menu-footer footer-bar__margin" data-module="primary-menu-footer">
+            <ul>
+              <li class="footer-bar__link">
+                <a href="page-proyectos.shtml" title="titulo de ejemplo">proyectos</a>
+              </li>
+              <li class="footer-bar__link">
+                <a href="page-servicios.shtml" title="titulo de ejemplo">Servicios</a>
+              </li>
+              <li class="footer-bar__link">
+                <a href="page-nosotros.shtml" title="titulo de ejemplo">sobre nosotros</a>
+              </li>
+              <li class="footer-bar__link">
+                <a href="#" title="titulo de ejemplo">cotizar</a>
+              </li>
+            </ul>
+          </nav>
+          <nav class="gridle-gr-5 gridle-gr-6@small secondary-menu-footer footer-bar__margin" data-module="secondary-menu-footer">
+            <ul>
+              <li class="footer-bar__link">
+                <a href="page-trabaja-nosotros.shtml" title="titulo de ejemplo">Trabaja con nosotros</a>
+              </li>
+              <li class="footer-bar__link">
+                <a href="#" title="titulo de ejemplo">Newsfeed</a>
+              </li>
+              <li class="footer-bar__link">
+                <a href="page-contacto.shtml" title="titulo de ejemplo">Contacto</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <!--- . row level 2-->
+      </div>
+
+
+      <div class="gridle-gr-5 gridle-gr-12@largemedium">
+        <!---level 2 row secundario-->
+        <div class="gridle-row">
+
+          <div class="gridle-gr-7 gridle-gr-12@small info footer-bar__margin">
+            <div class="item-contacto"><i class="icon-elem icon-elem--edit_location"></i><a target="_blank" href="http://maps.google.com/?q=Dr+Manuel+Barros+Borgoño+71,+Providencia,+Región+Metropolitana">Doctor Barros Borgoño 71 Oficina 603, Providencia, Santiago - Chile</a></div>
+            <div class="item-contacto"><i class="icon-elem icon-elem--phone_android"></i><a target="_blank" href="tel:+5692356270">+56 9 2356270</a></div>
+            <div class="item-contacto"><i class="icon-elem icon-elem--contact_mail"></i><a target="_blank" href="mailto:contacto@empresa.cl">contacto@empresa.cl</a></div>
+          </div>
+          <nav class="gridle-gr-5 gridle-gr-12@small social social--footer footer-bar__margin" data-module="rss-navigation">
+            <ul>
+              <li class="social--link icon-elem social-link--facebook">
+                <a href="#" target="_blank" title="titulo de ejemplo"></a>
+              </li>
+              <li class="social--link icon-elem social-link--twitter">
+                <a href="#" target="_blank" title="titulo de ejemplo"></a>
+              </li>
+              <li class="social--link icon-elem social-link--linkedin">
+                <a href="#" target="_blank" title="titulo de ejemplo"></a>
+              </li>
+              <li class="social--link icon-elem social-link--instagram">
+                <a href="#" target="_blank" title="titulo de ejemplo"></a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <!--- . row level 2-->
+      </div>
+
+    </div>
+    <!--- . row level 1-->
+  </div>
+</footer>
+  <script src="scripts/min/main.min.js"></script>
+  <script src="scripts/libs/jquery-3.1.0.min.js"></script>
+  <script src="scripts/main.js"></script>
+</body>
+</html>
